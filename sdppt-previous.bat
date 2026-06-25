@@ -1,1 +1,1 @@
-start powershell -File ".\sdppt-previous.ps1"
+powershell -File ".\sdppt-previous.ps1"

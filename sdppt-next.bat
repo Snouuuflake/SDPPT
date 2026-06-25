@@ -1,1 +1,1 @@
-start powershell -File ".\sdppt-next.ps1"
+powershell -File ".\sdppt-next.ps1"
